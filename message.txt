@@ -1,0 +1,6 @@
+Dear ${PERSON_NAME}, 
+	
+Reset link : ${RESET_LINK}
+
+Your Python Partner,
+Deep Prajapati
